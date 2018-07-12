@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">calcu_v1</string>
+    <string name="app_name">Calculator</string>
+    <string name="key_one">1</string>
+    <string name="key_two">2</string>
+    <string name="key_three">3</string>
+    <string name="key_four">4</string>
+    <string name="key_five">5</string>
+    <string name="key_six">6</string>
+    <string name="key_seven">7</string>
+    <string name="key_eight">8</string>
+    <string name="key_nine">9</string>
+    <string name="key_zero">0</string>
+    <string name="key_ac">AC</string>
+    <string name="key_resutl">=</string>
+    <string name="key_dog">.</string>
+    <string name="key_summation">+</string>
+    <string name="key_subtraction">-</string>
+    <string name="key_multiplication">*</string>
+    <string name="key_division">/</string>
+    <string name="type_number">"+/-"</string>
+    <string name="key_percent">%</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+
+
